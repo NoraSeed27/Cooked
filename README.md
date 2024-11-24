@@ -1,2 +1,2 @@
 # Cooked
-Practice repo
+Practice repository
